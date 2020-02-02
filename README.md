@@ -1,2 +1,1 @@
-# andela
 Andela challenge
